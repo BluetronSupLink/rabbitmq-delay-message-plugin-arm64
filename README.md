@@ -1,5 +1,7 @@
 # rabbitmq-delay-message-plugin-arm64
 
+## for ubantu18 
+
 rabbitmq-delay-message-plugin-arm64
 version 3.12.x
 
@@ -10,6 +12,9 @@ version 3.12.x
 ## enable plugin
 
 ![2](https://github.com/BluetronSupLink/rabbitmq-delay-message-plugin-arm64/assets/6244792/4c74309f-70b4-41a7-bd59-d5278ee0e177)
+
+
+
 
 
 
